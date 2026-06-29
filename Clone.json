@@ -3,7 +3,7 @@
  "title": "Notice",
  "message": " 1:-Kya apne Anonymous Omi se hi app liya h ? agar kisi chor se app liya h to meri jimmedari nhi h apka nuksan bhi ho skta hai , mujhse contact karo😊  t.me/anonymous_omi",
  "toast": "Koi bhi problem ho developer se contact karo t.me/anonymous_omi",
- "force_update": true,
- "maintenance": true,
- "disable_app": true
+ "force_update": false,
+ "maintenance": false,
+ "disable_app": false
 }
