@@ -1,8 +1,8 @@
 {
- "show_dialog": true,
+ "show_dialog": false,
  "title": "Notice",
  "message": " 1:-👹 Bhaiyo Mera Application chori ho gaya agar apne Anonymous omi ke alawa kisi se liya hai to apka present nahi Mujhe  pta lga hai ki chor ka naam Rao shahab hai or bhi bahut chor hain jinka naam mujhe abhi ota nhi chala h . Contact me on telegram-> t.me/anonymous_omi",
- "toast": "✨Welcome back✨Your app, real developer t.me/Anonymous_omi",
+ "toast": "✨your real developer t.me/Anonymous_omi",
  "force_update": false,
  "maintenance": false,
  "disable_app": false
